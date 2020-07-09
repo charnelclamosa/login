@@ -2,4 +2,4 @@
 yarn init
 
 ## DB from phpMyAdmin included
-'simplelogin.sql'
+'simplelogin.sql', remove after importing in phpMyAdmin
