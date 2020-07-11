@@ -4,7 +4,7 @@ This is a web application that allows the user to try a basic login authenticati
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the instructions below on how to deploy the project on a live system.
 
 ## Screenshots
 ![App screenshot](https://i.imgur.com/EHasSr2.png)
@@ -19,7 +19,7 @@ Things you need to be able to use this project:
 * [PHP](https://www.php.net/)
 * Command prompt
 
-### Installing
+### Installation
 
 Type this in cmd:
 
