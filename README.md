@@ -20,8 +20,6 @@ Things you need to be able to use this project:
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
 Type this in cmd:
 
 ```
