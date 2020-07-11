@@ -1,6 +1,6 @@
 # Basic login authentication App
 
-This is an application that allows the user to try a basic login authentication. It performs creating an account and signing in using the account that the user created. It has modern design and basic functionality
+This is an application that allows the user to try a basic login authentication. It performs creating an account and signing in using the account that the user created. It has modern design and basic functionality.
 
 ## Getting Started
 
@@ -16,6 +16,7 @@ Things you need to be able to use this project:
 
 * [Chrome](https://www.google.com/intl/en_ph/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+* [PHP](https://www.php.net/)
 * Command prompt
 
 ### Installing
@@ -48,6 +49,7 @@ php artisan serve
 * [Vue](https://vuejs.org/)
 * [Vuetify](https://vuetifyjs.com/en/)
 * [Vuex](https://vuex.vuejs.org/)
+* [Vue Router](https://router.vuejs.org/)
 * [Laravel](https://laravel.com/)
 
 ## Authors
