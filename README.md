@@ -1,12 +1,12 @@
 # Basic login authentication App
 
-This is an application that allows the user to try a basic login authentication. It performs creating an account and signing in using the account that the user created. It has modern design and basic functionality.
+This is a web application that allows the user to try a basic login authentication. It performs creating an account and signing in using the account that the user created. It has modern design and basic functionality.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Screenshot
+## Screenshots
 ![App screenshot](https://i.imgur.com/EHasSr2.png)
 ![App screenshot](https://i.imgur.com/Y8hs7fo.png)
 
