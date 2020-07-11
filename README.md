@@ -6,7 +6,7 @@ This is a web application that allows the user to try a basic login authenticati
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See the instructions below on how to deploy the project on a live system.
 
-## Screenshots
+## Preview
 ![App gif](gif/login.gif)
 
 ### Prerequisites
