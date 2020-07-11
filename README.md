@@ -37,6 +37,9 @@ create a database with a name of 'simplelogin'
 
 Last is go back to cmd and type:
 ```
+php artisan migrate
+```
+```
 php artisan serve
 ```
 
